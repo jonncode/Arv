@@ -6,7 +6,6 @@ namespace Arv
 {
     class Bird: Animal
     {
-        public int Hunger { get; set; }
-
+        public string Color { get; set; }
     }
 }

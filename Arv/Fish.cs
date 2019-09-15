@@ -6,6 +6,6 @@ namespace Arv
 {
     class Fish: Animal
     {
-
+        public string Species { get; set; }
     }
 }

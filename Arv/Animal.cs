@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Arv
 {
-    class Animal
+    abstract public class Animal
     {
         public bool Alive { get; set; }
         public int Age { get; set; }
